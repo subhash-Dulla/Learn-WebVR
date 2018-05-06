@@ -40,7 +40,7 @@ https://virtualrealitypop.com/getting-started-with-webvr-cd40d3d7f5db
 
 ## Resources
 
-https://www.youtube.com/watch?v=dv6_C4UqTfs&list=PLRtjMdoYXLf4inSULAHyCMqpIUj4cmBTr
+[Aframe Tutorials](https://www.youtube.com/watch?v=dv6_C4UqTfs&list=PLRtjMdoYXLf4inSULAHyCMqpIUj4cmBTr)
 
 https://aframe.io
 
