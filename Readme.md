@@ -1,8 +1,8 @@
-Learn WebVR
+# Learn WebVR
 
-Resources to learn WebVR
+`Resources to learn WebVR`
 
-[Fundamentals]
+## Fundamentals
 
 https://github.com/cassidoo/HTML-CSS-Tutorial
 
@@ -18,7 +18,7 @@ http://fossbytes.com/virtual-reality-works-ultimate-guide/
 
 https://www.youtube.com/watch?v=Le8pTXQqM3s
 
-[Start Here]
+## Start Here
 
 https://threejs.org/
 
@@ -38,7 +38,7 @@ https://www.smashingmagazine.com/2017/09/guide-virtual-reality-web-developers/
 
 https://virtualrealitypop.com/getting-started-with-webvr-cd40d3d7f5db
 
-[Resources]
+## Resources
 
 https://www.youtube.com/watch?v=dv6_C4UqTfs&list=PLRtjMdoYXLf4inSULAHyCMqpIUj4cmBTr
 
@@ -60,17 +60,17 @@ https://aframe.io/aframe-school/#/
 
 https://medium.com/lightspeed-idea/webvr-50213e3cbef0
 
-[Podcasts]
+## Podcasts
 
 http://www.vudream.com/11-top-vr-ar-podcasts-right-now-worth-listening-virtual-augmented-reality/
 
-[Extra]
+## Extra
 
 https://w3c.github.io/webvr/
 
 https://www.w3.org/community/webvr/
 
-[Sllides]
+## Slides
 
 https://speakerdeck.com/srushtika/building-realtime-vr-on-the-web
 
